@@ -1,0 +1,39 @@
+
+
+Reading the dataset...
+Time taken to read the dataset:  0.10297727584838867  seconds
+Dataset read successfully
+
+
+Preprocessing the dataset...
+Time taken to preprocess the dataset:  10.681887865066528  seconds
+Dataset preprocessed successfully
+
+
+The final set of features formed are: 
+
+1  -  Gender
+2  -  Age
+3  -  Driving_License
+4  -  Region_Code
+5  -  Previously_Insured
+6  -  Vehicle_Age
+7  -  Vehicle_Damage
+8  -  Annual_Premium
+9  -  Policy_Sales_Channel
+10  -  Vintage
+
+
+Applying Naive Bayes algorithm with 10-fold cross correction...
+Time taken to apply Naive Bayes algorithm with 10-fold cross correction:  73.00162744522095  seconds
+Accuracy of the model:  76.57295850066934
+
+
+Applying Naive Bayes algorithm with Laplace smoothing...
+Time taken to apply Naive Bayes algorithm with Laplace smoothing:  13.04440689086914  seconds
+Accuracy of the model:  76.62268120099445
+
+
+Time taken to run the program:  96.83100533485413  seconds
+
+

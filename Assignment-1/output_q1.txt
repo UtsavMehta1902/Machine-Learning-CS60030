@@ -1,0 +1,1130 @@
+Finding Desicion Tree with Best Accuracy.....
+
+Depth of the Desicion Tree is: 8
+Accuracy of Decision Tree is:  87.0
+
+
+Pruning the Decision Tree.....
+
+Accuracy of the Decision Tree after pruning:  95.5
+Depth of the Desicion Tree after pruning is: 8
+
+
+Printing Pruned Tree.....
+
+######### Level  0  #########
+Attribute of the node,  Vehicle_Damage
+
+
+######### Level  1  #########
+Attribute of the node,  Policy_Sales_Channel
+
+
+Attribute of the node,  Age
+
+
+######### Level  2  #########
+Attribute of the node,  Region_Code
+
+
+Attribute of the node,  Age
+
+
+Attribute of the node,  Vintage
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Annual_Premium
+
+
+Attribute of the node,  Gender
+
+
+######### Level  3  #########
+Attribute of the node,  Vintage
+
+
+Attribute of the node,  Vintage
+
+
+Attribute of the node,  Age
+
+
+Attribute of the node,  Age
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Vintage
+
+
+Attribute of the node,  Vintage
+
+
+Attribute of the node,  Age
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Region_Code
+
+
+Attribute of the node,  Region_Code
+
+
+Attribute of the node,  Region_Code
+
+
+Attribute of the node,  Vintage
+
+
+Attribute of the node,  Annual_Premium
+
+
+Attribute of the node,  Vintage
+
+
+Attribute of the node,  Vintage
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Region_Code
+
+
+Attribute of the node,  Age
+
+
+Attribute of the node,  Age
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Region_Code
+
+
+Attribute of the node,  Annual_Premium
+
+
+Attribute of the node,  Region_Code
+
+
+Attribute of the node,  Age
+
+
+Attribute of the node,  Age
+
+
+Attribute of the node,  Age
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+######### Level  4  #########
+Attribute of the node,  Age
+
+
+Attribute of the node,  Annual_Premium
+
+
+Attribute of the node,  Age
+
+
+Attribute of the node,  Age
+
+
+Attribute of the node,  Age
+
+
+Attribute of the node,  Age
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Age
+
+
+Attribute of the node,  Age
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Age
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Age
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Vintage
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Annual_Premium
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Age
+
+
+Attribute of the node,  Age
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Vintage
+
+
+Attribute of the node,  Vintage
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Vintage
+
+
+Attribute of the node,  Vehicle_Age
+
+
+Attribute of the node,  Vintage
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Previously_Insured
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Vintage
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Region_Code
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Age
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Age
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Age
+
+
+Attribute of the node,  Age
+
+
+Attribute of the node,  Age
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Age
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Age
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Vehicle_Age
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Vehicle_Age
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Region_Code
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+######### Level  5  #########
+Attribute of the node,  Annual_Premium
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Age
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Annual_Premium
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Annual_Premium
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Annual_Premium
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Age
+
+
+Attribute of the node,  Age
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Age
+
+
+Attribute of the node,  Age
+
+
+Attribute of the node,  Annual_Premium
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Annual_Premium
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Annual_Premium
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Driving_License
+
+
+Attribute of the node,  Driving_License
+
+
+Attribute of the node,  Driving_License
+
+
+Attribute of the node,  Driving_License
+
+
+Attribute of the node,  Driving_License
+
+
+Attribute of the node,  Driving_License
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Vehicle_Age
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Annual_Premium
+
+
+Attribute of the node,  Driving_License
+
+
+Attribute of the node,  Driving_License
+
+
+Attribute of the node,  Driving_License
+
+
+Attribute of the node,  Driving_License
+
+
+Attribute of the node,  Driving_License
+
+
+Attribute of the node,  Driving_License
+
+
+Attribute of the node,  Driving_License
+
+
+Attribute of the node,  Driving_License
+
+
+Attribute of the node,  Driving_License
+
+
+Attribute of the node,  Driving_License
+
+
+Attribute of the node,  Driving_License
+
+
+Attribute of the node,  Driving_License
+
+
+Attribute of the node,  Driving_License
+
+
+Attribute of the node,  Driving_License
+
+
+Attribute of the node,  Driving_License
+
+
+Attribute of the node,  Driving_License
+
+
+Attribute of the node,  Annual_Premium
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Age
+
+
+Attribute of the node,  Age
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Age
+
+
+Attribute of the node,  Age
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+######### Level  6  #########
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Age
+
+
+Attribute of the node,  Age
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Annual_Premium
+
+
+Attribute of the node,  Driving_License
+
+
+Attribute of the node,  Driving_License
+
+
+Attribute of the node,  Driving_License
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Driving_License
+
+
+Attribute of the node,  Driving_License
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Gender
+
+
+Attribute of the node,  Driving_License
+
+
+Attribute of the node,  Driving_License
+
+
+######### Level  7  #########
+Attribute of the node,  Driving_License
+
+
+Attribute of the node,  Driving_License
+
+
+Attribute of the node,  Driving_License
+
+
+Attribute of the node,  Driving_License
+
+
+
+
+Varying the depth of the tree and plotting the accuracy.....
+
