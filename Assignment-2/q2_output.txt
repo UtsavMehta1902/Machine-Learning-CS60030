@@ -1,0 +1,35 @@
+********************************************** PART 1 **********************************************
+Performing standard scalar normalisation...
+Randomly dividing the dataset into 80% training and 20% testing...
+Done!
+********************************************** PART 2 **********************************************
+Training Linear Support Vector Machine
+Accuracy of Linear SVM:  0.5714285714285714
+Training Quadratic Support Vector Machine
+Accuracy of Quadratic SVM:  0.2857142857142857
+Training Radial Basis Function Support Vector Machine
+Accuracy of Radial Basis SVM:  0.14285714285714285
+Done!
+********************************************** PART 3 **********************************************
+Training MLP Classifier
+With optimizer:  sgd  learning rate:  0.001  batch size:  32
+Training MLP Classifier with 1 hidden layer of 16 neurons
+Accuracy of MLP Classifier with 1 hidden layer of 16 neurons:  0.8571428571428571
+Training MLP Classifier with 2 hidden layer of 256 neurons and 16 neurons
+Accuracy of MLP Classifier with 2 hidden layer of 256 neurons and 16 neurons:  0.42857142857142855
+Done!
+********************************************** PART 4 **********************************************
+Best Model: MLP Classifier with 1 hidden layer of 16 neurons
+Training the above model with different learning rates
+Accuracy of MLP Classifier with learning rate:  0.1  is:  0.5714285714285714
+Accuracy of MLP Classifier with learning rate:  0.01  is:  0.42857142857142855
+Accuracy of MLP Classifier with learning rate:  0.001  is:  0.7142857142857143
+Accuracy of MLP Classifier with learning rate:  0.0001  is:  0.2857142857142857
+Accuracy of MLP Classifier with learning rate:  1e-05  is:  0.5714285714285714
+Done!
+********************************************** PART 5 **********************************************
+Applying forward feature selection
+Best Features are:  [39, 36, 18, 22]
+********************************************** PART 6 **********************************************
+Applying Ensemble learning (Max voting technique) using SVM with Quadratic, SVM with Radial Basis Function and MLP Classifier with 1 hidden layer of 16 neurons
+Accuracy of Ensemble learning (Max voting technique) using SVM with Quadratic, SVM with Radial Basis Function and MLP Classifier with 1 hidden layer of 16 neurons:  0.2857142857142857

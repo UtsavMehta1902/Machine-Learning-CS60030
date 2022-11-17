@@ -1,0 +1,26 @@
+######################################----Part 1-----######################################
+
+
+Beginning to Fetch and Process the data
+Beginning Principal Component Analysis
+The plot of PCA vs Cumulative Explained Variance is as shown.
+
+######################################----Part 2-----######################################
+
+
+Splitting the Data into Training and Testing Sets
+The values of NMI for different values of K in K-Means Clustering are as shown --
+NMI Score for k =  2  is  0.0007
+NMI Score for k =  3  is  0.1488
+NMI Score for k =  4  is  0.3202
+NMI Score for k =  5  is  0.2219
+NMI Score for k =  6  is  0.2694
+NMI Score for k =  7  is  0.5838
+NMI Score for k =  8  is  0.5210
+
+NMI score is maximum for k =  7  with NMI score =  0.5838
+
+######################################----Part 3-----######################################
+
+
+The plot of Normalized Mutual Information vs K is as shown.
